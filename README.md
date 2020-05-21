@@ -1,4 +1,4 @@
-This was the first app that I coded, both in the Javascript online course and otherwise. Like all my other projects so far, the HTML and CSS files of the app were provided by the couse instructor. Even though, he gave a video tutorial on how to make the game, I decided to make it on my own using the logics that I can come up with. The game works perfectly even though my logic is different from the instructor.
+This was the first app that I coded, both in the Javascript online course and otherwise. Like all my other projects so far, the HTML and CSS files of the app were provided by the course instructor. Even though, he gave a video tutorial on how to make the game, I decided to make it on my own using the logics that I could come up with. The game works perfectly even though my logic is different from the instructor.
 
 Directions:-
 Install and extract the project folder and simply open the HTML file with (preferably) Google Chrome.
